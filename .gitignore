@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/test-dotnet/test-dotnet/bin
+/test-dotnet/test-dotnet/obj
+*.suo
+*.csproj.user
